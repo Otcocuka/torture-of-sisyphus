@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/satsuki/Projects/torture-of-sisyphus/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

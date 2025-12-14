@@ -1,0 +1,5 @@
+/home/satsuki/Projects/torture-of-sisyphus/build/CMakeFiles/torture-of-sisyphus.dir
+/home/satsuki/Projects/torture-of-sisyphus/build/CMakeFiles/edit_cache.dir
+/home/satsuki/Projects/torture-of-sisyphus/build/CMakeFiles/rebuild_cache.dir
+/home/satsuki/Projects/torture-of-sisyphus/build/CMakeFiles/torture-of-sisyphus_autogen_timestamp_deps.dir
+/home/satsuki/Projects/torture-of-sisyphus/build/CMakeFiles/torture-of-sisyphus_autogen.dir
