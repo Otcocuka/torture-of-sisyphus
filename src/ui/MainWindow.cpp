@@ -38,7 +38,7 @@ void MainWindow::updateTime(const QString &time) {
   int mins = seconds / 60;
   int secs = seconds % 60;
   timeLabel->setText(QString("%1:%2")
-                         .arg(mins, 2, 10, QChar('0'))
+#include <Apptimer.h>                        .arg(mins, 2, 10, QChar('0'))
                          .arg(secs, 2, 10, QChar('0')));
 }
 
